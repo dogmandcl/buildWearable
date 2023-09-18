@@ -1,0 +1,29 @@
+{
+  "data": {
+    "replaces": ["mask","helmet", "tiara","hat"],
+    "hides": ["mask","helmet", "tiara"],
+    "tags": [
+      "smart",
+      "new",
+      "hat"
+    ],
+    "representations": [
+      {
+        "bodyShapes": [
+          "urn:decentraland:off-chain:base-avatars:BaseMale",
+          "urn:decentraland:off-chain:base-avatars:BaseFemale"
+        ],
+        "mainFile": "rain-hat.glb",
+        "contents": [
+          "rain-hat.glb"
+        ],
+        "overrideHides": [],
+        "overrideReplaces": []
+      }
+    ],
+    "category": "hat"
+  },
+  "name": "Weather Hat",
+  "description": "Hat lets you the check the weather of major cities",
+  "rarity": "legendary"
+}

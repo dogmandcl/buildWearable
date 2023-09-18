@@ -1,0 +1,29 @@
+{
+	"ecs7": true,
+	"runtimeVersion": "7",
+	"isPortableExperience": true,
+	"display": {
+		"title": "Weather Hat",
+		"description": "Hat lets you check the weather in major cities",
+		"navmapThumbnail": "images/thumbnail.png",
+		"favicon": "favicon_asset"
+	},
+	"owner": "Dogman",
+	"contact": {
+		"name": "DOGMAN",
+		"email": ""
+	},
+	"main": "bin/game.js",
+	"scene": {
+		"parcels": [
+			"0,0"
+		],
+		"base": "0,0"
+	},
+	"requiredPermissions": [
+		"USE_FETCH"
+	],
+	"allowedMediaHostnames": [
+	],
+	"featureToggles": {}
+}
